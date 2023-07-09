@@ -55,10 +55,10 @@ const props = defineProps({
             class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
         >
             <a href="/" class="flex items-center">
-                <img src="img/logo_Web.png" class="h-8 mr-3" alt=" Logo" />
+                <img src="img/mythos.png" class="h-8 mr-3" alt=" Logo" />
                 <span
                     class="self-center text-2xl font-semibold whitespace-nowrap dark:text-dark"
-                    >Dosen AI</span
+                    >Artist AI</span
                 >
             </a>
             <div class="flex md:order-2">
@@ -233,7 +233,7 @@ const props = defineProps({
                         class="flex items-center justify-center sm:justify-start"
                     >
                         <a
-                            href="https://www.instagram.com/mujiyantosvc/"
+                            href="https://www.instagram.com/sweatmbanana/"
                             class="font-body text-lg font-semibold uppercase text-grey-20"
                         >
                             Connect with me
@@ -310,13 +310,13 @@ const props = defineProps({
                     </div>
                     <div className="text-sm text-gray-600">
                         <img
-                            src="img/logo_Web.png"
+                            src="img/mythos.png"
                             class="h-8 mr-3"
                             alt=" Logo"
                         />
                         <span
                             class="self-center text-2xl font-semibold whitespace-nowrap dark:text-dark"
-                            >Dosen AI</span
+                            >Artist AI</span
                         >
                     </div>
                 </div>
