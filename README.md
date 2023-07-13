@@ -65,5 +65,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Link deploy
-[Deploy Domcloud](irfan.domcloud.io)
+## Deploy with Domcloud
+[Link Domcloud](irfan.domcloud.io)
